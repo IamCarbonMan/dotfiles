@@ -28,3 +28,4 @@ wlogout
 grim
 slurp
 alsa-utils
+wlr-randr
