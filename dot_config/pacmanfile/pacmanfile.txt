@@ -27,3 +27,8 @@ wlogout
 grim
 slurp
 alsa-utils
+
+# apps
+google-chrome-stable
+discord
+steam
