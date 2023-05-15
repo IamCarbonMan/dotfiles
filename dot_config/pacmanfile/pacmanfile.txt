@@ -1,0 +1,16 @@
+# hardware
+amd-ucode
+linux-firmware
+networkmanager
+
+# base system
+base
+base-devel
+linux
+
+# basic admin
+git
+nano
+pacmanfile
+paru
+chezmoi
