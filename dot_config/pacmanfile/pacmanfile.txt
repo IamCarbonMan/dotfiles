@@ -29,6 +29,6 @@ slurp
 alsa-utils
 
 # apps
-google-chrome-stable
+google-chrome
 discord
 steam
