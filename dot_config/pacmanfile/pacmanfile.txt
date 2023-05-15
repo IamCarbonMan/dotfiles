@@ -17,3 +17,14 @@ chezmoi
 
 # desktop
 wayfire
+kanshi
+mako
+wlsunset
+swayidle
+swaylock
+alacritty
+wofi
+wlogout
+grim
+slurp
+alsa-utils
