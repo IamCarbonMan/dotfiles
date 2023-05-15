@@ -17,7 +17,6 @@ chezmoi
 
 # desktop
 wayfire
-kanshi
 mako
 wlsunset
 swayidle
@@ -28,4 +27,3 @@ wlogout
 grim
 slurp
 alsa-utils
-wlr-randr
