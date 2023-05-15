@@ -16,4 +16,4 @@ paru
 chezmoi
 
 # desktop
-wayfire-git
+wayfire
